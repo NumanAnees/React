@@ -1,3 +1,3 @@
-#React
+#React Website
 
-This app is written in React.
+This is my first React website.
