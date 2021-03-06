@@ -1,2 +1,3 @@
-#React App
-This app is written in React .
+#React
+
+This app is written in React.
